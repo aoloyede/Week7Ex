@@ -69,5 +69,3 @@
 - wait_until_present 
 
 ###End of this cheat sheet, more to come!!!
-
-**more to come**
